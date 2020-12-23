@@ -13,6 +13,8 @@ cd build
 
 cmake ..
 
+cd ..
+
 make all
 
 
