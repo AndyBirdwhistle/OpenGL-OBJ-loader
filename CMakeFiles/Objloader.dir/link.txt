@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Objloader.dir/Objloader.cpp.o  -o Objloader  -lglfw -lGL -lGLU -lX11 -lm 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/BuildingYourOwnOpenglApp.dir/Objloader.cpp.o  -o BuildingYourOwnOpenglApp  -lGL -lGLU 

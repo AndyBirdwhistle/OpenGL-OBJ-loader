@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/title.dir/title.c.o  -o title  -Wl,-rpath,"/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/external/glfw-3.1.2/src" ../src/libglfw.so.3.1 -lGL -lm -lrt -lm -lX11 -lpthread -lXrandr -lXinerama -lXi -lXcursor -lGL -ldl 

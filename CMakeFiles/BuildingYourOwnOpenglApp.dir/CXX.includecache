@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/Objloader.cpp
+stdio.h
+-
+stdlib.h
+-
+vector
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+common/shader.hpp
+-
+common/texture.hpp
+-
+common/controls.hpp
+-
+common/objloader.hpp
+-
+

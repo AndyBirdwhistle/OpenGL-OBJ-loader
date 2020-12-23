@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/Objloader.cpp
+stdio.h
+-
+stdlib.h
+-
+vector
+-
+string
+-
+GL/glew.h
+-
+GLFW/glfw3.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+common/shader.hpp
+/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/common/shader.hpp
+common/texture.hpp
+/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/common/texture.hpp
+common/controls.hpp
+/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/common/controls.hpp
+common/objloader.hpp
+/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/common/objloader.hpp
+
+/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/common/controls.hpp
+
+/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/common/objloader.hpp
+
+/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/common/shader.hpp
+
+/home/khodorbouorm/Documents/Fac/Projet pluridisciplinaire/OpenGL tutorial/Projet/common/texture.hpp
+
