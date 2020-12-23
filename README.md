@@ -1,7 +1,7 @@
 # OpenGL-OBJ-loader
 
 
-##Pour build l'executable avec Cmake (Linux)
+## Pour build l'executable avec Cmake (Linux)
 
 -S'assurer que Cmake est bien installé
 
@@ -17,7 +17,7 @@ make all
 
 
 
-##Pour tester l'executable:
+## Pour tester l'executable:
 
 ./Obj suzanne.obj rock.DDS 
 
